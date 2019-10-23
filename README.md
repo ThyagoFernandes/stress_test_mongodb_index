@@ -1,0 +1,1 @@
+# Stress_test_mongo_index
