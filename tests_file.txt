@@ -1,0 +1,72 @@
+------------------ test performed on  01/11/2019 21:13:38 with 1000 iterations ------------------
+--- 0.24493050575256348 insertion time in seconds
+--- 0.024497270584106445 search time in seconds
+--- 0.01030278205871582 search time with index in seconds
+--- 0.015586137771606445 search time with index for only val1 in seconds
+--- 0.28966188430786133 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:01 with 1000 iterations ------------------
+--- 0.2666306495666504 insertion time in seconds
+--- 0.011020898818969727 search time in seconds
+--- 0.009500980377197266 search time with index in seconds
+--- 0.01452946662902832 search time with index for only val1 in seconds
+--- 0.2495861053466797 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:02 with 1000 iterations ------------------
+--- 0.34551286697387695 insertion time in seconds
+--- 0.013628244400024414 search time in seconds
+--- 0.00935506820678711 search time with index in seconds
+--- 0.014776229858398438 search time with index for only val1 in seconds
+--- 0.3644411563873291 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:03 with 1000 iterations ------------------
+--- 0.35045886039733887 insertion time in seconds
+--- 0.015109062194824219 search time in seconds
+--- 0.009943246841430664 search time with index in seconds
+--- 0.017024517059326172 search time with index for only val1 in seconds
+--- 0.3699312210083008 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:04 with 1000 iterations ------------------
+--- 0.3452634811401367 insertion time in seconds
+--- 0.014592409133911133 search time in seconds
+--- 0.010216951370239258 search time with index in seconds
+--- 0.015796661376953125 search time with index for only val1 in seconds
+--- 0.37061047554016113 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:05 with 1000 iterations ------------------
+--- 0.35904645919799805 insertion time in seconds
+--- 0.013743877410888672 search time in seconds
+--- 0.009674787521362305 search time with index in seconds
+--- 0.015081644058227539 search time with index for only val1 in seconds
+--- 0.3586547374725342 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:06 with 1000 iterations ------------------
+--- 0.3347930908203125 insertion time in seconds
+--- 0.016231298446655273 search time in seconds
+--- 0.009825944900512695 search time with index in seconds
+--- 0.015376806259155273 search time with index for only val1 in seconds
+--- 0.3677177429199219 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:07 with 1000 iterations ------------------
+--- 0.3592047691345215 insertion time in seconds
+--- 0.01895904541015625 search time in seconds
+--- 0.009452342987060547 search time with index in seconds
+--- 0.015066146850585938 search time with index for only val1 in seconds
+--- 0.3428633213043213 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:08 with 1000 iterations ------------------
+--- 0.3356513977050781 insertion time in seconds
+--- 0.01987934112548828 search time in seconds
+--- 0.009505033493041992 search time with index in seconds
+--- 0.016439437866210938 search time with index for only val1 in seconds
+--- 0.3378756046295166 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:09 with 1000 iterations ------------------
+--- 0.3446815013885498 insertion time in seconds
+--- 0.013516902923583984 search time in seconds
+--- 0.009598016738891602 search time with index in seconds
+--- 0.01667165756225586 search time with index for only val1 in seconds
+--- 0.3438875675201416 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:11 with 1000 iterations ------------------
+--- 0.33683109283447266 insertion time in seconds
+--- 0.01895284652709961 search time in seconds
+--- 0.009566783905029297 search time with index in seconds
+--- 0.016670942306518555 search time with index for only val1 in seconds
+--- 0.33132147789001465 insertion time with index in seconds
+------------------ test performed on  01/11/2019 21:14:27 with 1000000 iterations ------------------
+--- 298.26312279701233 insertion time in seconds
+--- 3.240973949432373 search time in seconds
+--- 4.902040719985962 search time with index in seconds
+--- 9.902388572692871 search time with index for only val1 in seconds
+--- 307.99817395210266 insertion time with index in seconds
